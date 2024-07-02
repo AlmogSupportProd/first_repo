@@ -1,0 +1,6 @@
+username="fordGID=1563737, ou=Employee, ou=People, o=Ford, c=US"
+password="mustang1"
+secure="CFSSL_BASIC"
+username="fordGID=1563737, ou=Employee, ou=People, o=Ford, c=US"
+password="mustang1"
+secure="CFSSL_BASIC"
